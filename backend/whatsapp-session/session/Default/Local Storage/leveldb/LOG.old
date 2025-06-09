@@ -1,0 +1,6 @@
+2025/06/04-22:31:00.444 5ba0 Reusing MANIFEST C:\devmode\whatsapp-bot\backend\whatsapp-session\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/04-22:31:00.445 5ba0 Recovering log #3
+2025/06/04-22:31:00.445 5ba0 Reusing old log C:\devmode\whatsapp-bot\backend\whatsapp-session\session\Default\Local Storage\leveldb/000003.log 
+2025/06/04-22:32:01.006 174 Level-0 table #5: started
+2025/06/04-22:32:01.012 174 Level-0 table #5: 17627 bytes OK
+2025/06/04-22:32:01.014 174 Delete type=0 #3

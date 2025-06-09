@@ -1,0 +1,38 @@
+# Dependencies - partout dans le projet
+**/node_modules/
+
+# Environment variables
+.env
+**/.env
+
+# Database files
+*.sqlite
+*.db
+database.sqlite
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+**/dist/
+**/build/
+
+# Cache
+.cache/
+**/.cache/
+
+# Package lock files (optionnel, selon tes préférences)
+# package-lock.json
+# yarn.lock
