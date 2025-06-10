@@ -13,7 +13,7 @@ class WhatsAppService {
             startTime: new Date(),
             lastActivity: null
         };
-        this.autoReplyEnabled = true;
+        this.autoReplyEnabled = false;
         this.messageTemplates = new Map();
         this.scheduledMessages = new Map();
     }
